@@ -1,1 +1,1 @@
-# D-nextauth-prisma
+# nextauth-prisma
